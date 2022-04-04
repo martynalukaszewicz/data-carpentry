@@ -209,6 +209,8 @@ plot(sex)
 ## but they can also be created by hand with the data.frame() function. 
 ## There are a few mistakes in this hand-crafted data.frame.
 ## Can you spot and fix them? Don’t hesitate to experiment!
+
+## this will return error message:
 animal_data <- data.frame(
   animal = c(dog, cat, sea cucumber, sea urchin),
   feel = c("furry", "squishy", "spiny"),
